@@ -1,0 +1,68 @@
+body,html{
+    background-image: url(images/Lacantara-Silver-Leaf-Wallpaper.png);
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+}
+
+.container1{
+    vertical-align: center;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding:20px;
+    color: wheat;
+    background-color: rgba(24, 23, 23, 0.809);
+    height: 70%;
+    border-radius: 5px;
+    text-align: center;
+}
+.container2{
+    vertical-align: center;
+    margin-top: 80px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding:15px;
+    color: white;
+    background-color: rgba(24, 23, 23, 0.809);
+    height: 90%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.navbar{
+    background-color:rgba(7, 7, 7, 0);
+    color: black;
+
+}
+.navbar-item, .navbar-link{
+    color: black;
+    margin-right: 10px;
+}
+.navbar-item{
+    color: black;
+}
+
+.input{
+    background-color: white;
+    margin-bottom: 12px;
+    margin-top: 15px;
+}
+
+.title{
+    text-align: center;
+    color: wheat;
+}
+
+.icon{
+    margin-left:5px;
+    margin-top: 16px;
+}
+.button{
+    margin: 15px;    
+    margin-left: 42%;
+}
+
+a p:hover{
+    color: blanchedalmond;
+}
